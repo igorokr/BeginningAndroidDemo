@@ -1,0 +1,7 @@
+/.gradle
+/.idea
+.DS_Store
+/demo/build
+/BeginningAndroid.iml
+/demo/demo.iml
+/build
